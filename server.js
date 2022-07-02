@@ -19,7 +19,7 @@ mongoose.connection.once('open', () => {
 }).on('error', (err) => {
     console.log(err);
 });
-let port = process.env.PORT || 8000
+let port = process.env.PORT || 3000
 app.listen(port,()=>{
-    console.log('Server is running at 8000');
+    console.log('Server is running at 3000');
 })
