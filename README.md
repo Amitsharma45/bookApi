@@ -1,10 +1,23 @@
-## Seed code - Boilerplate
+## Seed Code - Boilerplate
 
 ### Instructions
-Refer the PROBLEM.md file for the problem description.
 
-#### To use this as a boilerplate for your assignment, please follow below step.
+Please refer the [Problem Statement](./PROBLEM.md) file for the problem description.
 
-1. **FORK** this repository in your Gitlab account
+#### Using as Boilerplate
 
-## technology used in this project is NODE JS , EXPRESS JS , MONGO DB .
+To use this as a boilerplate for your assignment, please follow below step.
+
+1. **Fork** this repository in your GitHub Account.
+2. **Clone** this repository locally to your computer.
+3. **Make Changes** in this repository.
+4. **Commit the Changes** and **Push the Code** to your Repository under a **New Branch**.
+5. Create a **Pull Request** in this repository.
+
+### Technology Used
+
+Technology used in this project are:
+
+* Node JS
+* Express JS
+* Mongo DB
